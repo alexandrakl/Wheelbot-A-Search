@@ -1,0 +1,3 @@
+/Users/tobacco/Documents/school/usc/360/Sp2018Project1/build/CMakeFiles/rebuild_cache.dir
+/Users/tobacco/Documents/school/usc/360/Sp2018Project1/build/CMakeFiles/edit_cache.dir
+/Users/tobacco/Documents/school/usc/360/Sp2018Project1/build/CMakeFiles/Simulator360.dir
